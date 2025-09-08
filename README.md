@@ -29,15 +29,15 @@ A simple and efficient URL shortener built using **React (frontend)** and **Expr
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Frontend:** React.js  
 - **Backend:** Node.js, Express.js  
 
 ---
 
-## ⚙️ Installation  
+## Installation  
 
 ### 1. Clone the repository  
 ```bash
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/Vanshika-d25/2201640100316.git
 cd url-shortener
