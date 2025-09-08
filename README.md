@@ -4,7 +4,7 @@ A simple and efficient URL shortener built using **React (frontend)** and **Expr
 
 ---
 
-## 🚀 Features  
+## Features  
 - Shorten long URLs to compact links  
 - Redirect to the original link via the short URL  
 - Copy shortened links with one click  
@@ -16,7 +16,6 @@ A simple and efficient URL shortener built using **React (frontend)** and **Expr
 ## 📸 Screenshots  
 
 ### Frontend  
-_Add a screenshot of your React app here._  
 ![Frontend Screenshot]
 ![WhatsApp Image 2025-09-08 at 15 48 46_7a317f54](https://github.com/user-attachments/assets/026a5342-9184-448a-a224-69e4b8fc39d5)
 
@@ -24,7 +23,6 @@ _Add a screenshot of your React app here._
 
 
 ### Backend  
-_Add a screenshot of your backend terminal / API response here._  
 ![Backend Screenshot]
 ![WhatsApp Image 2025-09-08 at 15 49 06_a2ae81c1](https://github.com/user-attachments/assets/de02179e-b695-4e92-8325-2ebd98c727ea)
 
